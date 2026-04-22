@@ -1,0 +1,46 @@
+{
+  "seed": 42,
+  "use_subset": false,
+  "max_total_samples": 8300,
+  "train_size": 0.7,
+  "val_size": 0.15,
+  "test_size": 0.15,
+  "splits": {
+    "train": {
+      "num_samples": 5738,
+      "num_subjects": 49,
+      "label_counts": {
+        "0": 2940,
+        "1": 2798
+      },
+      "session_counts": {
+        "ses-1": 2940,
+        "ses-2": 2798
+      }
+    },
+    "val": {
+      "num_samples": 1246,
+      "num_subjects": 11,
+      "label_counts": {
+        "0": 649,
+        "1": 597
+      },
+      "session_counts": {
+        "ses-1": 649,
+        "ses-2": 597
+      }
+    },
+    "test": {
+      "num_samples": 1316,
+      "num_subjects": 11,
+      "label_counts": {
+        "0": 660,
+        "1": 656
+      },
+      "session_counts": {
+        "ses-1": 660,
+        "ses-2": 656
+      }
+    }
+  }
+}
