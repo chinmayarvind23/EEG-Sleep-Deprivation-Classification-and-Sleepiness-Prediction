@@ -48,7 +48,7 @@ We evaluate three settings:
 
 - The project uses subject-wise splitting to avoid leakage across train, validation, and test sets.
 - Pretrained classification checkpoints used for downstream feature extraction are stored in models/.
-- Most experiments are provided as notebooks under code/.
+- Experiments are provided as notebooks under code/.
 
 ## Setup
 
