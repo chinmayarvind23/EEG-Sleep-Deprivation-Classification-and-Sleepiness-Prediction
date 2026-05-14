@@ -7,7 +7,7 @@ This repository contains our course project on using resting-state EEG for two r
 
 The core goal is to study whether EEG representations learned for sleep deprivation classification are also useful for downstream subjective sleepiness prediction.
 
-Link to Drive Folder containing raw data, preprocessed data, group presentation, group video: [https://drive.google.com/drive/folders/10NdP13_vVo_mubHR0NwzzuSUmOviVWDF?usp=sharing]
+Link to Drive Folder containing raw data, preprocessed data, group presentation, group video: [https://drive.google.com/drive/folders/1meAulHb0yytaVB1TZRkgO1hG_Lgp4cI_?usp=sharing]
 
 ## What this repo includes
 
