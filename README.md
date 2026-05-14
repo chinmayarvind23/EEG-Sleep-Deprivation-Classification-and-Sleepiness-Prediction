@@ -7,14 +7,13 @@ This repository contains our course project on using resting-state EEG for two r
 
 The core goal is to study whether EEG representations learned for sleep deprivation classification are also useful for downstream subjective sleepiness prediction.
 
-Link to Drive Folder containing raw data, and preprocessed data: 
-
+Link to Drive Folder containing raw data, preprocessed data, and trained Phase 1 models: 
 https://drive.google.com/drive/folders/1meAulHb0yytaVB1TZRkgO1hG_Lgp4cI_?usp=sharing
 
 ## What this repo includes
 
 - EEG preprocessing pipeline
-- Phase 1 models for NS vs. SD classification
+- Phase 1 training and evaluation pipeline
 - Phase 2 pipelines for sleepiness prediction:
   - **Phase 1 feature-based models** using pretrained representations
   - **Direct end-to-end ordinal prediction** from EEG
